@@ -1,2 +1,2 @@
-# Prodigy-Task-1
-Responsive landing Page
+# PRODIGY_WD_01
+Responsive Landing Page
